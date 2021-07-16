@@ -1,3 +1,8 @@
+%%%%%%%%%%%%%%%
+% Author: Bin Ruan
+% email: 975189452@qq.com
+%%%%%%%%%%%%%%%
+
 \LoadClass{article}
 
 \ProvidesClass{introduction}
