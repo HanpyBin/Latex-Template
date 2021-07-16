@@ -2,4 +2,4 @@
 *.synctex.gz
 *.log
 *.aux
-pic/*
+/pic/
